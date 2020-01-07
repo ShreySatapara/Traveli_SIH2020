@@ -1,0 +1,140 @@
+{
+    "Responce": 1,
+    "data": [
+        {
+            "ID": "1",
+            "Name": "Hyatt Regency Ahmedabad",
+            "Address": "17A, Ashram Road, Usmanpura",
+            "Latitude": "23.0438",
+            "Longitude": "72.5702",
+            "City": "Ahmedabad",
+            "Pincode": "380014"
+        },
+        {
+            "ID": "2",
+            "Name": "Hotel Fortune Landmark",
+            "Address": "Ashram Rd, Shanti Nagar, Usmanpura",
+            "Latitude": "23.0477",
+            "Longitude": "72.5704",
+            "City": "Ahmedabad",
+            "Pincode": "380013"
+        },
+        {
+            "ID": "3",
+            "Name": "The Grand Bhagwati",
+            "Address": "S.G. Road, NH 8C, opp. Gurudwara, Bodakdev",
+            "Latitude": "23.0425",
+            "Longitude": "72.5144",
+            "City": "Ahmedabad",
+            "Pincode": "380054"
+        },
+        {
+            "ID": "4",
+            "Name": "Hotel Fortune Inn Haveli",
+            "Address": "Haveli Arcade, Sector 11",
+            "Latitude": "23.2172",
+            "Longitude": "72.6493",
+            "City": "Gandhinagar",
+            "Pincode": "382011"
+        },
+        {
+            "ID": "5",
+            "Name": "Cambay Sapphire",
+            "Address": "Plot No 22, 23 & 24, GIDC, Sector 25",
+            "Latitude": "23.247",
+            "Longitude": "72.6345",
+            "City": "Gandhinagar",
+            "Pincode": "382010"
+        },
+        {
+            "ID": "6",
+            "Name": "OYO 2116 Skylon Hotel",
+            "Address": "Dev Complex, K - 7 Circle, Sector 26",
+            "Latitude": "23.2598",
+            "Longitude": "72.6409",
+            "City": "Gandhinagar",
+            "Pincode": "382027"
+        },
+        {
+            "ID": "7",
+            "Name": "Marasa Sarovar Portico",
+            "Address": "Dr Rajendra Prasad Rd, Opposite Shastri Maidan, Limda Chowk, Gavliwad",
+            "Latitude": "22.2962",
+            "Longitude": "70.7986",
+            "City": "Rajkot",
+            "Pincode": "360001"
+        },
+        {
+            "ID": "8",
+            "Name": "Hotel The Imperial Palace",
+            "Address": "Dr Yagnik Rd, Jagnath Plot",
+            "Latitude": "22.295",
+            "Longitude": "70.7908",
+            "City": "Rajkot",
+            "Pincode": "360001"
+        },
+        {
+            "ID": "9",
+            "Name": "The Elements",
+            "Address": "150 Feet Ring Rd, Opposite Sterling Hospital, Gautamnagar, Gandhigram",
+            "Latitude": "22.3081",
+            "Longitude": "70.7685",
+            "City": "Rajkot",
+            "Pincode": "360007"
+        },
+        {
+            "ID": "10",
+            "Name": "Courtyard By Marriott",
+            "Address": "EARTHSPACE, Hazira Rd, Opp ONGC",
+            "Latitude": "21.1763",
+            "Longitude": "72.7329",
+            "City": "Surat",
+            "Pincode": "394510"
+        },
+        {
+            "ID": "11",
+            "Name": "The Gateway Hotel",
+            "Address": "Surat - Dumas Rd, Ambika Niketan, Athwalines",
+            "Latitude": "21.1773",
+            "Longitude": "72.7898",
+            "City": "Surat",
+            "Pincode": "395007"
+        },
+        {
+            "ID": "12",
+            "Name": "Lords Plaza",
+            "Address": "Ring Rd, Near Delhi Gate, Begampura",
+            "Latitude": "21.2003",
+            "Longitude": "72.8409",
+            "City": "Surat",
+            "Pincode": "395003"
+        },
+        {
+            "ID": "13",
+            "Name": "Revival Lords Inn",
+            "Address": "Near University Road, near Kala Ghoda Circle, Sayajiganj",
+            "Latitude": "22.3103",
+            "Longitude": "73.1883",
+            "City": "Vadodara",
+            "Pincode": "390002"
+        },
+        {
+            "ID": "14",
+            "Name": "Vivanta",
+            "Address": "Aashapuri Society, Sheetal Nagar, Akota",
+            "Latitude": "22.2946",
+            "Longitude": "73.1755",
+            "City": "Vadodara",
+            "Pincode": "390020"
+        },
+        {
+            "ID": "15",
+            "Name": "Hotel Express Towers",
+            "Address": "RC Dutt Rd, Near to Indian Oil Petrol Pump, Aradhana Society, Vishwas Colony, Alkapuri",
+            "Latitude": "22.3103",
+            "Longitude": "73.1692",
+            "City": "Vadodara",
+            "Pincode": "390007"
+        }
+    ]
+}

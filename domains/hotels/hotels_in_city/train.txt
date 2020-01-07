@@ -1,0 +1,103 @@
+hotels in {mexico city|city}
+hotel in {berlin|city}
+hotel within {philadelphia|city}
+hotels within {london ontario|city}
+best hotels in {milan|city}
+best hotel in {san francisco california|city}
+best hotel of {milan|city}
+best hotels of {toronto|city}
+best hotel within {San Leandro|city}
+best hotels within {singapore|city}
+the best hotel of {paris|city}
+the best hotels of {hawaii|city}
+the best hotels in {ames iowa|city}
+the best hotel within {new york|city}
+the best hotels within {sf|city}
+show me hotels in {montreal|city}
+show me hotel in {busan|city}
+show me some hotel in {incheon|city}
+show me some hotels in {pisa|city}
+show some hotel in {atlanta|city}
+show some hotels in {seoul|city}
+some some of the hotels in {vancouver|city}
+show some of the hotels of {osaka|city}
+show me some of the hotels in {mangalore|city}
+show me some of the hotels of {singapore|city}
+show me some hotel within {seattle|city}
+show mw some hotels within {brisbane|city}
+best rated hotel in {chicago|city}
+best rated hotels in {milan|city}
+the best rated hotel in {rome|city}
+the best rated hotels in {cochin|city}
+best hotel of {shanghai|city}
+best hotels of {seoul|city}
+hotel with good rating in {toronto|city}
+hotels with good rating in {beijing|city}
+hotel with best rating in {stockholm|city}
+hotels with best rating in {san jose|city}
+hotel with the best rating in {aukland|city}
+hotels with the best rating in {hong kong|city}
+hotels with good review in {houston texas|city}
+hotel with good review in {dublin|city}
+hotels with best review in {monaco|city}
+hotel with best review in {calicut|city}
+hotel with the best rivew in {edinburgh|city}
+hotels with the best rivew in {venice|city}
+which hotel are in {goa|city}
+which hotels are in {mexico city|city}
+which hotels are within {beijing|city}
+which are the good hotel of {seoul|city}
+which are good hotel in {seattle|city}
+which are good hotels of {phoenix arizona|city}
+which are the good hotels of {osaka|city}
+which are good hotel within {manchester|city}
+which is best hotel of {thimphu|city}
+which are best hotels of {tel aviv|city}
+which is the best hotel of {sausalito california|city}
+which are the best hotels of {new delhi|city}
+which are the best hotel in {seattle|city}
+which are the best hotels in {rio de janeiro|city}
+top hotels of {manchester new hampshire|city}
+top hotels in {frankfurt|city}
+top hotels within {boxborough|city}
+top hotel of {mexico city|city}
+top hotel in {dallas|city}
+hotels in {vienna|city}
+hotel in {los angeles|city}
+some hotels in {minneapolis|city}
+some hotel in {boston|city}
+show some hotel in {stanford|city}
+show some hotels in {phoenix arizona|city}
+find me some hotel in {haifa|city}
+find me some hotels in {hawaii|city}
+hotel for me in {lisbon|city}
+hotels for me at {johannesburg|city}
+hotels arounf {manchester|city}
+hotel around {frankfurt|city}
+hotels {hong kong|city}
+hotel {tel aviv|city}
+some hotels within {boxborough|city}
+hotels of {seoul|city}
+top hotel within {beijing|city}
+show me finest hotel of {manchester new hampshire|city}
+show me finest hotels of {hong kong|city}
+show me finest hotels in {singapore|city} 
+show me some of the finest hotel in {seattle|city}
+show me some of the finest hotel of {phoenix arizona|city}
+show me some of the finest hotels of {new delhi|city}
+show me some of the finest hotels within {boxborough|city}
+the finest hotel in {los angeles|city}
+the finest hotels in {san francisco california|city}
+the finest hotel within {sausalito california|city}
+the finest hotels within {rio de janeiro|city}
+the finest hotel of {johannesburg|city}
+the finest hotels of {manchester|city}
+which are finest hotels of {lisbon|city}
+which is finest hotel of {calcutta|city}
+which are finest hotel in {madrid|city}
+which is finest hotel in {ottawa|city}
+which are finest hotels in {seoul south korea|city}
+finest hotel within {athens|city}
+finest hotel of {san diego|city}
+finest hotel in {chicago|city}
+
